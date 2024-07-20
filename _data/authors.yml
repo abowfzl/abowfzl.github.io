@@ -1,0 +1,13 @@
+# /_data/authors.yml
+
+Abolfazl Moslemian:
+  name        : "Abofazl Moslemian"
+  bio      : "Back-end developer with skills in developing maintainable, extensible cloud-based applications, mostly experience in the .NET platform and C# with good knowledge to match business requirements"
+  avatar      : "/assets/images/my-pic.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:abowfzl@gmail.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/abowfzl"

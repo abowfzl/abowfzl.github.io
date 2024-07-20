@@ -1,0 +1,11 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "About me"
+    url: /about/
+  - title: "Posts"
+    url: /year-archive/
+  - title: "Tags"
+    url: /tags/
+  - title: "CV"
+    url: "/files/CV_Abolfazl Moslemian.pdf"
