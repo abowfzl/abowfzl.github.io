@@ -6,20 +6,17 @@ classes: wide
 
 <p>Hello There! 👋 I'm Abolfazl :)</p>
 
-``` Your friendly neighborhood software developer and machine learning enthusiast. Having +4 years in online platforms, writing maintainable, scalable, readable, and performant codebases prioritized testable and expressive code with best practices in mind and industry standards.
-```
+```Your friendly neighborhood software developer and machine learning enthusiast, with over 4 years of experience in building maintainable, scalable, and high-performance codebases. My work spans both academic and industry sectors, where I prioritize best practices in software engineering, AI development, and research.```
 
-I spend my days (and, let's be real, many late nights) diving into code, crafting innovative solutions, and making machines a little bit smarter. With a passion for problem-solving and a love for all things tech.🤓
+I dedicate my time to crafting innovative solutions, merging software engineering with artificial intelligence to solve complex problems. My research focuses on **Machine Learning**, **Deep Learning**, **Neural Networks**, **Computer Vision**, **Self-driving Cars**, and **Large Language Models (LLMs)**—areas in which I aim to contribute to both academic and real-world advancements.
 {: .notice--info}
 
-Whether it's building robust software from scratch or training algorithms to learn and evolve, I'm all about pushing the boundaries of what's possible. When I'm not glued to my keyboard, you'll find me exploring the latest tech trends, geeking out over new ML models, or sharing my knowledge with the fantastic dev community.
+Whether it's developing robust software systems or advancing AI research, I strive to push the boundaries of what's possible. My vision is to collaborate with academic professionals to contribute to impactful research that drives the future of AI and machine learning. I am passionate about building scalable, testable, and efficient solutions that have a meaningful impact.
 {: .notice--info}
-
-
 
 <p align="center"> 
  <strong>
-# Some of the tools I use...
+# Tools & Technologies I Use
   </strong>
 </p>
 
@@ -32,13 +29,22 @@ Whether it's building robust software from scratch or training algorithms to lea
     <img src="/assets/images/ChatGPT.svg" alt="ChatGPT" width="60" height="60" />
 </p>
 
-> - 🌱 I’m currently studying Machine learning, Computer Vision, and Neo4j in Al field and  Domain Driven Development, Microservices, MongoDB, and PostgreSQL in software development
-- 🦸🏻 I’m looking to collaborate on .NET and ML projects 
+---
 
+### Academic Vision & Skills:
+- **Research Interests**: Focused on advancing **Machine Learning**, **Deep Learning**, **Neural Networks**, **Computer Vision**, **Self-driving Cars**, and **Large Language Models (LLMs)**, contributing to both academic research and real-world applications.
+- **AI & Software Engineering**: Developing advanced AI models and scalable software solutions using **.Net Core**, **Python**, **REST APIs**, and **Microservices** architecture.
+- **Backend & Software Development**: Extensive experience with **SQL Server**, **PostgreSQL**, and **Redis**, ensuring data efficiency and system performance.
+- **Collaboration in Research**: Seeking opportunities to collaborate with universities and research institutes to push the boundaries of AI, computer vision, and self-driving technologies.
 
-Sharing what we build, how we build it, and the mistakes we made along the way improves the experience and saves time for the next thousands of people doing similar.🤘
+For a more detailed overview of my skills, background, and academic journey, visit the [About page](/about/) or view my [CV here](/files/AbolfazlMoslemian-CV.pdf).
+{: .notice--primary}
 
-Ever since I first laid my hands on my first computer (since Y2018 🪲) I’ve loved computers 🧑‍💻.
+---
 
+> 🌱 I’m currently studying advanced topics like **Neo4j**, **Computer Vision**, **Deep Learning**, and **LLMs**, while expanding my skills in **Domain-Driven Development**, **Microservices**, and **PostgreSQL** in software engineering.
+- 🦸🏻 I’m looking to collaborate on **.NET** and **AI/ML** projects with researchers, professors, and developers.
 
-Welcome to my digital corner of the world—let's create something awesome together! 🚀✨
+---
+
+<p>Feel free to explore my site for more about my work, projects, and research interests. If you're a professor or researcher in the fields of AI, machine learning, or software development, I would be delighted to connect and explore potential collaboration opportunities!</p>
