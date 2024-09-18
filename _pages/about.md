@@ -1,8 +1,10 @@
 ---
 permalink: /about/
-classes: wide no-sidebar
+classes: wide
+layout: splash
 title: "About"
 ---
+
 ## Abolfazl Moslemian  
 **Software Developer | ML & Data Science Specialist**
 
