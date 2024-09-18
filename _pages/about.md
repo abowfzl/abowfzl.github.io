@@ -114,6 +114,7 @@ A Console Application built with .Net 5 using a 3-layer architecture (Core, Doma
 - <small>Repository pattern for EF DbContext and Redis wrapper in [Core Layer](https://github.com/abowfzl/Titus/blob/master/Core).</small>
 - <small>Distributed CacheManager implementation in the Service layer.</small>
 - <small>Unit tests using Moq and NUnit.</small>
+
 ---
 
 > <i class="fa fa-code" aria-hidden="true"></i> **Life Style Code:** 
