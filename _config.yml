@@ -3,7 +3,7 @@ compress_html:
 
 locale: "en-US"
 name: "Abolfazl Moslemian"
-subtitle: "Development Personal Website"
+subtitle: "Personal Development Website"
 title: Abolfazl Moslemian
 masthead_title: "Abowfzl.com"
 logo: "/assets/images/logo.jpg"
@@ -28,6 +28,7 @@ date_format: "%Y %B %d"
 reading_time: true
 enable_copy_code_button: true
 google-site-verification: E4Fxn_g02ZE-UlvHa8LJMKLAR_YikeuFALXyiogMUdQ
+google_fonts: true
 
 search                   : true
 search_full_content      :  true
@@ -89,7 +90,7 @@ assets:
   source_maps: true
   destination: "/assets"
   compression: true
-  gzip: false
+  gzip: true
   caching:
     enabled: true
     path: ".jekyll-cache/assets"
