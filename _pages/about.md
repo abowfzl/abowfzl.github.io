@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-classes: wide
+classes: wide no-sidebar
 title: "About"
 ---
 ## Abolfazl Moslemian  
@@ -65,7 +65,7 @@ With a vision to drive the future of AI and software development, **Abolfazl Mos
 
 ## 🧳 Travel Adviser <a href="https://github.com/abowfzl/Travel-Adviser"> <i class="fab fa-fw fa-github" aria-hidden="true"></i><span class="label">Link</span></a>
 
-Travel Adviser is an intelligent vacation planning application that uses GPT4All, LangChain, and Neo4j to provide personalized travel recommendations and itineraries. It features an interactive user interface and a scalable architecture, utilizing machine learning and AI models to enhance user experience with real-time travel data analysis.
+Travel Adviser is an intelligent vacation planning application that uses GPT4All, OpenAI, LangChain, and Neo4j to provide personalized travel recommendations and itineraries. It features an interactive user interface and a scalable architecture, utilizing machine learning and AI models to enhance user experience with real-time travel data analysis.
 
 ### Key Features:
 - **Personalized travel suggestions** powered by advanced AI models.
@@ -82,6 +82,7 @@ Pigeon is a monolithic clean architecture .Net project designed to help website 
 - Crawls websites to extract mentioned links on a page. [Link Crawler.cs](https://github.com/abowfzl/Pigeon/blob/master/Pigeon/Crawler/LinkCrawler.cs)
 - Background job fetches and logs page response time and status code.
 - Ticketing system for admins to assign crashed pages to team members and track resolutions (Admin interface).
+- Login and user management with [Asp .Net Identity](https://learn.microsoft.com/en-us/aspnet/identity/overview/getting-started/introduction-to-aspnet-identity)
 
 #### Part 2: Data Mining
 - Extracts tags from news websites.
