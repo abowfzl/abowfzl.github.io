@@ -68,6 +68,7 @@ title: "About"
 
 ## 🧳 Travel Adviser <a href="https://github.com/abowfzl/Travel-Adviser"> <i class="fab fa-fw fa-github" aria-hidden="true"></i><span class="label">Link</span></a>
 <small>Travel Adviser is an intelligent vacation planning application that uses GPT4All, OpenAI, LangChain, and Neo4j to provide personalized travel recommendations and itineraries. It features an interactive user interface and a scalable architecture, utilizing machine learning and AI models to enhance user experience with real-time travel data analysis.</small>
+
 ### Key Features:
 - <small>**Personalized travel suggestions** powered by advanced AI models.</small>
 - <small>**User-friendly interface** for exploring travel options.</small>
@@ -75,12 +76,15 @@ title: "About"
 
 ## 🕊️ Pigeon  <a href="https://github.com/abowfzl/Pigeon"> <i class="fab fa-fw fa-github" aria-hidden="true"></i><span class="label">Link</span></a>
 <small>Pigeon is a monolithic clean architecture .Net project designed to help website owners monitor and manage the status of their web pages and also perform data mining to extract insights from news publisher websites.</small>
+
 ### Key Features:
+
 #### Part 1: Web Crawler and Monitoring
 - <small>Crawls websites to extract mentioned links on a page. [Link Crawler.cs](https://github.com/abowfzl/Pigeon/blob/master/Pigeon/Crawler/LinkCrawler.cs)</small>
 - <small>Background job fetches and logs page response time and status code.</small>
 - <small>Ticketing system for admins to assign crashed pages to team members and track resolutions (Admin interface).</small>
 - <small>Login and user management with [Asp .Net Identity](https://learn.microsoft.com/en-us/aspnet/identity/overview/getting-started/introduction-to-aspnet-identity)</small>
+
 #### Part 2: Data Mining
 - <small>Extracts tags from news websites.</small>
 - <small>Implements the `Apriori` [algorithm](https://github.com/abowfzl/Pigeon/tree/master/Pigeon/Algoritms) to find relationships between tags. Check this page [DataMining.cs](https://github.com/abowfzl/Pigeon/blob/master/Pigeon/Pages/DataMining.cshtml.cs)</small>
@@ -110,6 +114,7 @@ This project provides a robust and maintainable solution for managing user accou
 <small>
 A Console Application built with .Net 5 using a 3-layer architecture (Core, Domain, Service).
 </small>
+
 ### Key Features:
 - <small>Repository pattern for EF DbContext and Redis wrapper in [Core Layer](https://github.com/abowfzl/Titus/blob/master/Core).</small>
 - <small>Distributed CacheManager implementation in the Service layer.</small>
