@@ -55,7 +55,7 @@ title: "About"
 
 ---
 
-<small> **With a vision to drive the future of AI and software development, **Abolfazl Moslemian** is not just keeping up with the latest technological trends—he’s setting them.**</small>
+#### With a vision to drive the future of AI and software development, **Abolfazl Moslemian** is not just keeping up with the latest technological trends—he’s setting them.
 
 > 
 💎 **Top skills**:
