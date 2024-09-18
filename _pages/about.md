@@ -3,21 +3,23 @@ permalink: /about/
 classes: wide
 title: "About"
 ---
-# Abolfazl Moslemian  
+## Abolfazl Moslemian  
 **Software Developer | ML & Data Science Specialist**
 
 Abolfazl Moslemian is a passionate innovator in the world of software development and machine learning. With a sharp focus on AI, deep learning, and neural networks, he pushes the boundaries of technology to create next-generation, cloud-based solutions using the .Net platform. Abolfazl's goal is clear: to revolutionize industries through the intelligent application of machine learning and AI-powered tools.
 
-### Latest Work: Travel Adviser Project 🚀
+## Latest Work: Travel Adviser Project 🚀
 In his latest groundbreaking work on the **Travel Adviser project**, Abolfazl is pioneering personalized vacation planning by harnessing the power of advanced AI models like GPT4All and LangChain. By integrating natural language processing and Neo4j's graph-based insights, his project transforms travel data into smart, tailor-made recommendations for every type of traveler.
 
-### Academic Excellence 🎓
+## Academic Excellence 🎓
+
 Abolfazl’s academic journey at **Qom University**, where he ranked among the top 10% of his class, has fueled his hunger for cutting-edge research. Notably, he ranked in the **top 0.5%** of students nationwide for the Iran National University entrance exam, competing with over 200,000 students.
 
-### Research Experience 🔬
+## Research Experience 🔬
+
 As a member of the **Smart Software Lab** at Qom University, Abolfazl has been developing machine learning algorithms for personalized travel planning and exploring AI applications in natural language processing and data analysis. This hands-on research prepares him for advanced roles in AI and deep learning applications.
 
-### Key Projects 💡
+## Key Projects 💡
 - **Pigeon**: A monolithic, clean architecture .Net project designed to help website owners monitor and manage the status of their web pages while performing data mining to extract insights from news publisher websites. 
     - Key Features: 
         - Web crawling and monitoring for real-time status of web pages.
@@ -38,14 +40,14 @@ As a member of the **Smart Software Lab** at Qom University, Abolfazl has been d
 
 - **Travel Adviser**: A chatbot for personalized travel planning, leveraging AI technologies like ChatGPT, LangChain, and Neo4j.
 
-### Certifications 📜
+## Certifications 📜
 - **Machine Learning** (Stanford University, Coursera): Completed with a grade of 92.65%
 - **Python for Data Science, AI & Development** (IBM, Coursera): Completed with a grade of 94.91%
 
-### Professional Expertise 🌐
+## Professional Expertise 🌐
 Abolfazl's professional achievements include key roles at **Exbito** and **Mootantroo**, where he led projects in API development, infrastructure monitoring, and performance optimization. His approach to software development emphasizes clean, scalable architecture, setting new standards for efficiency and innovation.
 
-### Skills and Technologies 💻
+## Skills and Technologies 💻
 From optimizing financial transactions to building high-performance web APIs, Abolfazl is always looking to push the envelope. His expertise spans **Python**, **.Net Core**, **TensorFlow**, **PyTorch**, **SQL Server**, **Redis**, and various other tools, making him a versatile problem-solver across multiple domains.
 
 ---
