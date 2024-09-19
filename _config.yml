@@ -5,7 +5,7 @@ locale: "en-US"
 name: "Abolfazl Moslemian"
 subtitle: "Personal Development Website"
 title: Abolfazl Moslemian
-masthead_title: "Abowfzl.com"
+masthead_title: "Abowfzl"
 logo: "/assets/images/logo.jpg"
 title_separator: "-"
 email: abowfzl@gmail.com
@@ -23,7 +23,7 @@ github_username:  abowfzl
 
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 date_format: "%Y %B %d"
 reading_time: true
 enable_copy_code_button: true
