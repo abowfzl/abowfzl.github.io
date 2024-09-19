@@ -51,22 +51,20 @@ title: "About"
 <small>Abolfazl's professional achievements include key roles at **Exbito** and **Mootantroo**, where he led projects in API development, infrastructure monitoring, and performance optimization. His approach to software development emphasizes clean, scalable architecture, setting new standards for efficiency and innovation.</small>
 
 ## Skills and Technologies 💻
-<small>From optimizing financial transactions to building high-performance web APIs, Abolfazl is always looking to push the envelope. His expertise spans **Python**, **.Net Core**, **TensorFlow**, **PyTorch**, **SQL Server**, **Redis**, and various other tools, making him a versatile problem-solver across multiple domains.</small>
-
----
+<small>From optimizing financial transactions to building high-performance web APIs, Abolfazl is always looking to push the envelope. His expertise spans **Python**, **.Net Core**, and various other tools, making him a versatile problem-solver across multiple domains.</small>
 
 > 
 💎 **Top skills**:
 
-**Programming Languages**: Python (NumPy, TensorFlow, Pandas, Scikit-learn, Matplotlib, Plotly, PyTorch, Keras), .Net Core, ASP .Net Core
-**Databases**: SQL Server, PostgreSQL, MySQL, Elastic, Redis
-**Software Tools**: Arduino, Cisco Packet Tracer, Proteus, Xilinx ISE Design Suite
-**Methodologies**: Agile, Scrum, Continuous Integration/Continuous Deployment (CI/CD)
-**Other Skills**: Data Structure, Git, Unit Tests, Docker, DevOps
-**Soft Skills**: Problem-solving, Adaptability, Team collaboration, Innovative mindset
+- **Programming Languages**: Python (NumPy, TensorFlow, Pandas, Scikit-learn, Matplotlib, Plotly, PyTorch, Keras), .Net Core, ASP .Net Core
+- **Databases**: SQL Server, PostgreSQL, MySQL, Elastic, Redis
+- **Software Tools**: Arduino, Cisco Packet Tracer, Proteus, Xilinx ISE Design Suite
+- **Methodologies**: Agile, Scrum, Continuous Integration/Continuous Deployment (CI/CD)
+- **Other Skills**: Data Structure, Git, Unit Tests, Docker, DevOps
+- **Soft Skills**: Problem-solving, Adaptability, Team collaboration, Innovative mindset
 {: .notice--info}
 
-<br>
+---
 
 # Projects 🎯
 
