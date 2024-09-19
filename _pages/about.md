@@ -53,8 +53,8 @@ title: "About"
 ## Skills and Technologies 💻
 <small>From optimizing financial transactions to building high-performance web APIs, Abolfazl is always looking to push the envelope. His expertise spans **Python**, **.Net Core**, and various other tools, making him a versatile problem-solver across multiple domains.</small>
 
-> 
-💎 **Top skills**:
+
+**Top skills** 💎:
 - **Programming Languages**: Python (NumPy, TensorFlow, Pandas, Scikit-learn, Matplotlib, Plotly, PyTorch, Keras), .Net Core, ASP .Net Core
 - **Databases**: SQL Server, PostgreSQL, MySQL, Elastic, Redis
 - **Software Tools**: Arduino, Cisco Packet Tracer, Proteus, Xilinx ISE Design Suite
