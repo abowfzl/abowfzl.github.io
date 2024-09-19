@@ -8,7 +8,7 @@ title: "About"
 ### Abolfazl Moslemian  
 **Software Developer | ML & Data Science Specialist**
 
-<small>Abolfazl Moslemian is a passionate innovator in the world of software development and machine learning. With a sharp focus on AI, deep learning, and neural networks, he pushes the boundaries of technology to create next-generation, cloud-based solutions using the .Net platform. **Abolfazl's goal is clear: to revolutionize industries through the intelligent application of machine learning and AI-powered tools.**</small>
+<small>Abolfazl Moslemian is a passionate innovator in the world of software development and machine learning. With a sharp focus on AI, deep learning, and neural networks, he pushes the boundaries of technology to create next-generation, cloud-based solutions using the .Net platform. With a vision to drive the future of AI and software development, Abolfazl is not just keeping up with the latest technological trends—he’s setting them. **Abolfazl's goal is clear: to revolutionize industries through the intelligent application of machine learning and AI-powered tools.**</small>
 
 ## Latest Work: Travel Adviser Project 🚀
 <small>In his latest groundbreaking work on the **Travel Adviser project**, Abolfazl is pioneering personalized vacation planning by harnessing the power of advanced AI models like GPT4All and LangChain. By integrating natural language processing and Neo4j's graph-based insights, his project transforms travel data into smart, tailor-made recommendations for every type of traveler.</small>
@@ -54,8 +54,6 @@ title: "About"
 <small>From optimizing financial transactions to building high-performance web APIs, Abolfazl is always looking to push the envelope. His expertise spans **Python**, **.Net Core**, **TensorFlow**, **PyTorch**, **SQL Server**, **Redis**, and various other tools, making him a versatile problem-solver across multiple domains.</small>
 
 ---
-
-#### With a vision to drive the future of AI and software development, **Abolfazl Moslemian** is not just keeping up with the latest technological trends—he’s setting them.
 
 > 
 💎 **Top skills**:
@@ -128,7 +126,7 @@ A Console Application built with .Net 5 using a 3-layer architecture (Core, Doma
   <img src="/assets/images/abolfazl-life-style.png" alt="Abolfazl Moslemian Life Style"/>
 </p>
 
-> <i class="fab fa fa-github" aria-hidden="true"></i> **Github Stats:** 
+> <i class="fab fa-fw fa-github" aria-hidden="true"></i> **Github Stats:** 
 
 <p align="center">
  <a href="https://github.com/abowfzl" alt="Abolfazl Moslemian's github stats">
