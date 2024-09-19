@@ -58,7 +58,13 @@ title: "About"
 > 
 💎 **Top skills**:
 
-| C# • ASP.NET Core • Git • Docker • Python • REST APIs • Redis • SQL • Algorithms • Data Structures • JSON • Nginx |
+**Programming Languages**: Python (NumPy, TensorFlow, Pandas, Scikit-learn, Matplotlib, Plotly, PyTorch, Keras), .Net Core, ASP .Net Core
+**Databases**: SQL Server, PostgreSQL, MySQL, Elastic, Redis
+**Software Tools**: Arduino, Cisco Packet Tracer, Proteus, Xilinx ISE Design Suite
+**Methodologies**: Agile, Scrum, Continuous Integration/Continuous Deployment (CI/CD)
+**Other Skills**: Data Structure, Git, Unit Tests, Docker, DevOps
+**Soft Skills**: Problem-solving, Adaptability, Team collaboration, Innovative mindset
+{: .notice--info}
 
 <br>
 
