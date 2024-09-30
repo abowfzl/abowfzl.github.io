@@ -5,8 +5,8 @@ locale: "en-US"
 name: "Abolfazl Moslemian"
 subtitle: "Personal Development Website"
 title: Abolfazl Moslemian
-masthead_title: "Abowfzl.com"
-logo: "/assets/images/logo.jpg"
+masthead_title: "Abowfzl"
+logo: "/assets/images/logo.png"
 title_separator: "-"
 email: abowfzl@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
@@ -22,8 +22,8 @@ twitter_username: abowfzl
 github_username:  abowfzl
 
 # Build settings
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+minimal_mistakes_skin: "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 date_format: "%Y %B %d"
 reading_time: true
 enable_copy_code_button: true
