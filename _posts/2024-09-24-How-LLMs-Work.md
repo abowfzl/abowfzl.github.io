@@ -144,3 +144,6 @@ In the end, LLMs are transforming how we interact with technology. As they evolv
 ---
 
 I hope this article helps you understand what LLMs are and how they work. It’s important that everyone, not just AI experts, has a voice in how AI develops and is used to benefit society. AI is part of our future, and it’s up to all of us to guide it responsibly.
+
+> 
+This post is inspired by and references the article How Large Language Models Work from [Andreas Stöffelbauer article in Meduim](https://medium.com/data-science-at-microsoft/how-large-language-models-work-91c362f5b78f), and images used in the article are taken from there as well.
