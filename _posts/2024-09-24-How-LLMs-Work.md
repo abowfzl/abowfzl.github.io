@@ -104,6 +104,28 @@ LLMs learn in three stages:
 3. **Reinforcement Learning (RLHF):**  
    - Humans step in to correct the model’s mistakes, which teaches the model to provide more accurate answers.
 
+### Pre-Training:
+
+During this phase, the model requires a huge amount of data to learn how to predict the next word. In this process, the model not only learns grammar and sentence structure, but also gains a broad understanding of various topics, along with some additional capabilities that we’ll discuss later.
+
+But here’s a question: What are the potential issues with this kind of pre-training? There are several, but the main concern I want to highlight is related to what the model is actually learning.
+
+Essentially, the model becomes good at generating continuous text on a given topic, but it doesn’t excel at responding to specific instructions or questions. The issue is that it hasn't been trained to act like a helpful assistant.
+
+For instance, if you ask a pre-trained LLM, “What is your first name?”, it might reply with, “What is your last name?” This happens because the model has encountered similar sequences in its training data (such as empty forms) and is simply trying to complete the pattern.
+
+It struggles with following clear instructions because this type of structured conversation—where an instruction is followed by a relevant response—was not common in the data used for training. Platforms like Quora or StackOverflow might be closer examples of that structure, but they are rare compared to the vast variety of text the model was trained on.
+
+
+
+### Fine-Tuning:
+
+This is where instruction tuning steps in. We take the pre-trained LLM, which has learned how to predict words, and teach it something new: how to follow instructions. Essentially, we’re doing the same thing as before—training the model to predict one word at a time—but now, we’re using a more curated dataset filled with high-quality instruction-response pairs.
+
+In this phase, the model "un-learns" its habit of simply completing text and instead evolves into an assistant that understands and responds according to user instructions. The dataset used for this fine-tuning is much smaller than what we used in pre-training, and there’s a reason for that: creating these instruction-response pairs is costly, as they require human input, unlike the massive and inexpensive self-supervised data we used earlier. This stage is referred to as supervised instruction fine-tuning for that reason.
+
+Some LLMs, like ChatGPT, go through an additional phase called reinforcement learning from human feedback (RLHF). We won’t dive too deep into it, but this phase works similarly to instruction tuning. The goal is to further align the model’s responses with human values and preferences. Early research suggests that RLHF plays a key role in helping LLMs reach, or even exceed, human-level performance. By blending reinforcement learning with language modeling, we’re seeing tremendous potential for improving LLMs far beyond what they can currently do.
+
 ## Challenges with LLMs
 
 Despite their abilities, LLMs face several challenges:
@@ -123,7 +145,7 @@ LLMs improve because:
 
 - **Zero-Shot Learning**: LLMs can handle tasks they weren’t specifically trained for, like translating a sentence while using only words starting with “B.”
   
-- **Creative Responses**: Ask ChatGPT to translate “The cat sleeps in the box,” and it might creatively respond, “Furry friend rests in cozy quarters.”
+- **Creative Responses**: Ask ChatGPT to translate “The cat sleeps in the box” using only words that start with “f,” and it might respond with “Furry friend rests in cozy quarters.”
 
 ## The Future of LLMs
 
