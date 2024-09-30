@@ -15,11 +15,7 @@ tags:
   - Deep Learning
 ---
 
-# Understanding LLMs: How ChatGPT and AI Learn to Talk
-
 AI (Artificial Intelligence) is everywhere these days, and you’ve probably heard of **ChatGPT**. It’s a tool that uses something called Large Language Models (**LLMs**) to have conversations with you, answer questions, and even help with your homework. But how do these models actually work? Let’s break it down step by step, using examples to make it easy to follow.
-
----
 
 ## What’s the Big Deal About LLMs?
 
@@ -28,82 +24,123 @@ LLMs are computer models that understand and create human language. But why are 
 - **LLMs use patterns in language** to predict the next word.
 - They’ve learned from huge amounts of text—like books, websites, and research papers.
 
----
-
 ## Layers of AI: How Does AI Learn?
 
 <img src="/assets/images/Discover AI fields.webp" alt="Layers of AI" style="margin:auto">
 
-AI has several layers, kind of like an onion. Here’s how it works:
+AI consists of multiple layers, each playing a unique role. Let's break it down:
 
-1. **Artificial Intelligence (AI):** The big umbrella term. This is all about making machines smart.
+1. **Artificial Intelligence (AI):** This is the overarching concept of making machines capable of tasks that typically require human intelligence.
    
-2. **Machine Learning (ML):** A type of AI where machines learn from data. For example, if you give a computer lots of pictures of cats and dogs, it can learn to tell them apart.
+2. **Machine Learning (ML):** A subset of AI where machines learn from data. For instance, if you show a computer hundreds of images of cats and dogs, it will eventually learn to distinguish between the two.
    
-3. **Deep Learning:** A more advanced part of ML that handles tricky tasks, like understanding pictures or text. This is where **neural networks** come in—computer systems inspired by how our brains work.
+3. **Deep Learning:** A more specialized part of ML that tackles more complex data, like images or language. This is where **neural networks** come in—systems loosely based on the human brain.
 
----
+4. **Large Language Models (LLMs):** LLMs specialize in processing text and forming human-like responses, and that’s what we’ll explore in this article.
 
-## How LLMs Work: A Simple Example
+## Machine Learning: A Simple Example
 
-Let’s say you’re typing “The cat is...” into ChatGPT. The LLM behind it tries to guess what comes next:
-- Is the cat **sleeping**?
-- Is the cat **playful**?
+The purpose of Machine Learning is to find patterns in data. More specifically, it identifies relationships between inputs and outcomes.
 
-LLMs do this based on what they’ve learned from reading tons of text. They’re trained on millions of sentences, so they can guess what words make sense together.
+### Music Genres Example:
+Imagine you want to tell the difference between two music genres: reggaeton and R&B.  
+- **Reggaeton** is known for its lively beats and danceable rhythms.  
+- **R&B** (Rhythm and Blues) is more soulful, often featuring both fast-paced and slow songs.
 
-### How Do LLMs Learn?
-LLMs learn in stages:
+<img src="/assets/images/How-Computer-Learn.gif" alt="Machine Learning in practice. Predicting music genre is an example of a classification problem" style="margin:auto">
+
+Suppose we have 20 songs. Each song has a **tempo** (how fast the song is) and an **energy level**. We’ve also labeled them by genre. When we plot the data, we notice that high-tempo, high-energy songs are usually reggaeton, while slower, low-energy songs are mostly R&B.  
+
+**Machine Learning** can automate the task of labeling genres based on these patterns, allowing us to predict the genre of new songs. This type of task is called **classification**, where the outcome can only be one of a fixed number of labels (like R&B or reggaeton).
+
+The machine learns by finding a line that separates the two genres. Once it learns this, we can use the line to predict whether any new song belongs to reggaeton or R&B, based on its tempo and energy.
+
+### What if the Input is Text?
+
+<img src="/assets/images/Word-embedding.webp" alt="Sentiment classification example" style="margin:auto">
+
+Now imagine a more complicated input: text. Let’s say we want to know whether a sentence has a **positive** or **negative** sentiment (emotion). This, too, is a classification task. 
+
+Turning words into something a computer can understand isn’t straightforward. We need to convert them into **word embeddings**, which are numerical representations that capture a word’s meaning. These word embeddings allow the machine to process the sentence as a sequence of numbers, which it can then use to make predictions.
+
+## Deep Learning: A Step Deeper
+
+By now, we’ve seen that more complicated tasks (like analyzing text or images) require more powerful models. Enter **Deep Learning**.
+
+<img src="/assets/images/Neural-Network.webp" alt="Neural Networks are the most powerful Machine Learning models we have today" style="margin:auto">
+
+Deep Learning uses **neural networks** to model complex relationships at scale. These networks have many layers, each processing information and passing it along to the next. You can think of them like stacks of mathematical functions that allow the machine to learn intricate patterns.
+
+Neural networks are often described as being inspired by the human brain, but in reality, they’re quite different. Still, their basic structure—layers of connected units called neurons—lets them model very complicated relationships.
+
+For instance, **ChatGPT** is based on a neural network that contains over 176 billion parameters (neurons), allowing it to process and generate human-like responses. Compare that to the human brain, which has around 100 billion neurons.
+
+## How Do LLMs Work?
+
+Now that we understand neural networks, we can dive into **LLMs**.  
+
+Let’s say you type “The cat is…” into ChatGPT. The LLM tries to predict the next word: is the cat **sleeping**? Is the cat **running**? It makes this prediction based on the patterns it has learned from millions of sentences.  
+
+### What is GPT?
+
+**GPT** stands for **Generative Pre-trained Transformer**:
+
+- **Generative**: The model is trained to generate text.
+- **Pre-trained**: The model has already been trained on vast amounts of text data.
+- **Transformer**: This is the specific neural network architecture used.
+
+The transformer architecture is special because it helps the model focus on the most important parts of a sentence, much like how humans pay attention to key details in a conversation.
+
+## How LLMs Learn: The 3 Steps
+
+LLMs learn in three stages:
 
 1. **Pre-Training:**  
-   - The LLM reads a massive amount of text from the internet and learns to predict the next word.  
-   - Think of it as teaching the LLM by showing it lots of sentences and letting it guess the next word.
-
+   - The model reads huge amounts of text and learns to predict the next word. Think of it as a giant guessing game.
+   
 2. **Fine-Tuning:**  
-   - After learning how to predict words, the model is fine-tuned to answer real-life questions. This is when the LLM becomes helpful, like when you ask ChatGPT for homework help.
+   - After the model learns to predict words, it’s refined using real-life questions and answers. This makes the LLM more helpful when responding to users.
 
 3. **Reinforcement Learning (RLHF):**  
-   - In this stage, humans correct the LLM’s mistakes. If the LLM gives a wrong or confusing answer, people fix it, and the LLM gets smarter.
+   - Humans step in to correct the model’s mistakes, which teaches the model to provide more accurate answers.
 
----
+## Challenges with LLMs
 
-## Challenges LLMs Face: Why They Aren’t Perfect
+Despite their abilities, LLMs face several challenges:
 
-Even though LLMs are cool, they have some challenges:
-
-- **Hallucinations:** Sometimes, LLMs confidently make up facts. For example, if you ask, “Who is the president of Mars?” the LLM might invent a name, even though there’s no president on Mars!
-- **Outdated Information:** LLMs are trained on past data, so they might not know recent events. That’s why tools like Bing Chat use the internet to get updated info before answering.
-
----
+- **Hallucinations**: Sometimes, LLMs invent facts. For example, if you ask, “Who is the president of Mars?” the model might make up a name.
+  
+- **Outdated Information**: LLMs are trained on past data, so they might not know the latest events. Some models, like **Bing Chat**, solve this by retrieving up-to-date information from the internet before answering.
 
 ## Why LLMs Keep Getting Smarter
 
-LLMs keep improving because:
-- They are trained on more and more data.
-- They use bigger neural networks (some have billions of neurons!).
+LLMs improve because:
 
-### Cool Features of LLMs
-LLMs can do some impressive things:
-- **Zero-Shot Learning:** They can handle new tasks they haven’t been trained for. For example, you could ask ChatGPT to translate a sentence using only words that start with the letter “B.”
-- **Creative Answers:** If you ask for a fun translation, the LLM might turn “The cat sleeps in the box” into “Furry buddy finds cozy spot.” Pretty creative, right?
+- They are trained on more data over time.
+- They use increasingly larger neural networks (some with billions of parameters).
+
+### Cool LLM Abilities
+
+- **Zero-Shot Learning**: LLMs can handle tasks they weren’t specifically trained for, like translating a sentence while using only words starting with “B.”
+  
+- **Creative Responses**: Ask ChatGPT to translate “The cat sleeps in the box,” and it might creatively respond, “Furry friend rests in cozy quarters.”
+
+## The Future of LLMs
+
+As LLMs continue to improve, they’ll find their way into more applications:
+
+- **Search engines** will provide smarter, more relevant results.
+- **Digital assistants** like Siri or Alexa will have more natural conversations.
+- **Creative tools** will help generate stories, essays, and much more.
+
+### Key Takeaways
+
+- LLMs, like ChatGPT, predict words based on the vast amounts of text they’ve learned from.
+- They are trained in three stages: pre-training, fine-tuning, and reinforcement learning.
+- LLMs can handle a variety of tasks, from answering questions to generating creative text.
+
+In the end, LLMs are transforming how we interact with technology. As they evolve, they’ll continue shaping the future of AI and our everyday digital experiences.
 
 ---
 
-## What’s Next for LLMs?
-
-As LLMs get better at understanding and generating text, they’ll be used in more places:
-- **Search engines** might become smarter, finding exactly what you need.
-- **Digital assistants** like Siri or Alexa could have more natural conversations with you.
-- **Creative writing tools** will help people generate stories, poems, and more.
-
-However, researchers are still figuring out if LLMs truly understand language or if they’re just good at mimicking patterns.
-
----
-
-### Quick Takeaways:
-- **LLMs like ChatGPT predict words** based on patterns they’ve learned from reading lots of text.
-- They’re trained in stages: pre-training, fine-tuning, and reinforcement learning.
-- LLMs can do cool things like answer questions, translate languages, and even come up with creative responses.
-- **But they’re not perfect**—sometimes they make stuff up or don’t have up-to-date information.
-
-In the future, LLMs will become even more important, and they might change the way we use technology every day.
+I hope this article helps you understand what LLMs are and how they work. It’s important that everyone, not just AI experts, has a voice in how AI develops and is used to benefit society. AI is part of our future, and it’s up to all of us to guide it responsibly.
