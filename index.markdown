@@ -2,11 +2,10 @@
 layout: home
 author_profile: true
 classes: wide
-title: "Abolfazl Moslemian - Home"
 
 ---
 
-<p>Hello There! 👋 I'm Abolfazl :)</p>
+<p>Hello and Welcome! 👋 I'm Abolfazl :)</p>
 
 ```Your friendly neighborhood software developer and machine learning enthusiast, with over 4 years of experience in building maintainable, scalable, and high-performance codebases. My work spans both academic and industry sectors, where I prioritize best practices in software engineering, AI development, and research.```
 
