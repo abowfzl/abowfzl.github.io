@@ -18,7 +18,7 @@ Many developers occasionally use the LINQ methods `First` and `FirstOrDefault` a
 However, replacing `Single` with `First` is not always feasible, as these two methods serve different purposes and cannot always be interchanged. Despite their distinct functionalities, there are instances where they can be swapped.
 {: .notice--info}
 
-<img src="/assets/images/WrongAssumption.jpg" alt="WrongAssumption" style="margin:auto">
+<img src="/assets/images/WrongAssumption.webp" alt="WrongAssumption" style="margin:auto">
 
 The SingleOrDefault method does not always traverse "all" items of an Enumerable. ❌
 {: .notice--info}

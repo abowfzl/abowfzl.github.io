@@ -3,7 +3,7 @@ classes: wide
 title:  "Exploring LLMs: How ChatGPT and AI Learn to Talk"
 categories: AI
 header:
-  teaser: /assets/images/Discover-LLMs.png
+  teaser: /assets/images/Discover-LLMs.webp
 author: Abolfazl Moslemian
 tags:
   - AI 

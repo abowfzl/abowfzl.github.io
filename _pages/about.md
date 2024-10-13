@@ -125,7 +125,7 @@ A Console Application built with .Net 5 using a 3-layer architecture (Core, Doma
 > <i class="fa fa-code" aria-hidden="true"></i> **Life Style Code:** 
 
 <p align="center">
-  <img src="/assets/images/abolfazl-life-style.png" alt="Abolfazl Moslemian Life Style"/>
+  <img src="/assets/images/abolfazl-life-style.webp" alt="Abolfazl Moslemian Life Style"/>
 </p>
 
 > <i class="fab fa-fw fa-github" aria-hidden="true"></i> **Github Stats:** 

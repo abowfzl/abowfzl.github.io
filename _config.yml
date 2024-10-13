@@ -6,14 +6,14 @@ name: "Abolfazl Moslemian"
 subtitle: "Personal Development Website"
 title: Abolfazl Moslemian
 masthead_title: "Abowfzl"
-logo: "/assets/images/logo.png"
+logo: "/assets/images/logo.webp"
 title_separator: "-"
 email: abowfzl@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Abolfazl Moslemian, Principal Software Developer and ML & Data Science Specialist, excels in C#, .Net Core, and Python. With over four years of experience, he is an expert in creating cutting-edge, maintainable, and extensible cloud-based applications.
 
-image: "/assets/images/default-preview.jpg"
-teaser: "/assets/images/default-preview.jpg"
+image: "/assets/images/default-preview.webp"
+teaser: "/assets/images/default-preview.webp"
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://abowfzl.com"
@@ -120,7 +120,7 @@ defaults:
       share: true
       show_date: true
       related: true
-      image: /assets/images/default-preview.jpg
+      image: /assets/images/default-preview.webp
 
       
   # _pages
