@@ -2,6 +2,8 @@
 layout: home
 author_profile: true
 classes: wide
+title: "Abolfazl Moslemian - Home"
+
 ---
 
 <p>Hello There! 👋 I'm Abolfazl :)</p>

@@ -5,8 +5,8 @@ layout: splash
 title: "About"
 ---
 
-### Abolfazl Moslemian  
-**Software Developer | ML & Data Science Specialist**
+# Abolfazl Moslemian  
+**Software Developer | Machine Learning & Data Science Specialist**
 
 <small>Abolfazl Moslemian is a passionate innovator in the world of software development and machine learning. With a sharp focus on AI, deep learning, and neural networks, he pushes the boundaries of technology to create next-generation, cloud-based solutions using the .Net platform. With a vision to drive the future of AI and software development, Abolfazl is not just keeping up with the latest technological trends—he’s setting them. **Abolfazl's goal is clear: to revolutionize industries through the intelligent application of machine learning and AI-powered tools.**</small>
 
