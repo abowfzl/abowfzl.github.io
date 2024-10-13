@@ -10,7 +10,7 @@ logo: "/assets/images/logo.webp"
 title_separator: "-"
 email: abowfzl@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Abolfazl Moslemian, Principal Software Developer and ML & Data Science Specialist, excels in C#, .Net Core, and Python. With over four years of experience, he is an expert in creating cutting-edge, maintainable, and extensible cloud-based applications.
+  Abolfazl Moslemian, Principal Software Developer & Machine Learning & Data Science Specialist specializing in C#, Python, and cloud-based applications.
 
 image: "/assets/images/default-preview.webp"
 teaser: "/assets/images/default-preview.webp"
@@ -52,7 +52,7 @@ plugins:
 author:
   name     : "Abofazl Moslemian"
   avatar   : "/assets/images/my-pic.jpg"
-  bio      : "Life from the perspective of a developer ;)"
+  bio      : "Life from the perspective of a programmer ;)"
   location : "Tehran, Iran"
   links:
     - label: "Linkedin"
