@@ -55,11 +55,11 @@ title: "About"
 
 
 **Top skills** 💎:
-- **Programming Languages**: Python (NumPy, TensorFlow, Pandas, Scikit-learn, Matplotlib, Plotly, PyTorch, Keras), .Net Core, ASP .Net Core
-- **Databases**: SQL Server, PostgreSQL, MySQL, Elastic, Redis
+- **Programming Languages**: [Python](https://www.python.org/) (NumPy, TensorFlow, Pandas, Scikit-learn, Matplotlib, Plotly, PyTorch, Keras), [.Net Core](https://learn.microsoft.com/en-us/dotnet/core/introduction), ASP .Net Core
+- **Databases**: SQL Server, [PostgreSQL](https://www.postgresql.org/), [MySQL](https://www.mysql.com/), [Elastic](https://www.elastic.co/), [Redis](https://redis.io/)
 - **Software Tools**: Arduino, Cisco Packet Tracer, Proteus, Xilinx ISE Design Suite
 - **Methodologies**: Agile, Scrum, Continuous Integration/Continuous Deployment (CI/CD)
-- **Other Skills**: Data Structure, Git, Unit Tests, Docker, DevOps
+- **Other Skills**: Data Structure, [Git](https://git-scm.com/), Unit Tests, [Docker](https://www.docker.com/), DevOps
 - **Soft Skills**: Problem-solving, Adaptability, Team collaboration, Innovative mindset
 
 ---

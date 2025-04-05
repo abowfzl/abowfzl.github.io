@@ -9,7 +9,7 @@ classes: wide
 
 ```Your friendly neighborhood software developer and machine learning enthusiast, with over 4 years of experience in building maintainable, scalable, and high-performance codebases. My work spans both academic and industry sectors, where I prioritize best practices in software engineering, AI development, and research.```
 
-I dedicate my time to crafting innovative solutions, merging software engineering with artificial intelligence to solve complex problems. My research focuses on **Machine Learning**, **Deep Learning**, **Neural Networks**, **Computer Vision**, **Self-driving Cars**, and **Large Language Models (LLMs)**—areas in which I aim to contribute to both academic and real-world advancements.
+I dedicate my time to crafting innovative solutions, merging software engineering with artificial intelligence to solve complex problems. My research focuses on [**Machine Learning**](https://www.ibm.com/think/topics/machine-learning), [**Deep Learning**](https://cloud.google.com/discover/what-is-deep-learning), [**Neural Networks**](https://www.ibm.com/think/topics/neural-networks), [**Computer Vision**](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-computer-vision#object-classification), [**Self-driving Cars**](https://www.synopsys.com/glossary/what-is-autonomous-car.html), and [**Large Language Models (LLMs)**](https://www.ibm.com/think/topics/large-language-models)—areas in which I aim to contribute to both academic and real-world advancements.
 Whether it's developing robust software systems or advancing AI research, I strive to push the boundaries of what's possible. My vision is to collaborate with academic professionals to contribute to impactful research that drives the future of AI and machine learning. I am passionate about building scalable, testable, and efficient solutions that have a meaningful impact.
 {: .notice--info}
 
@@ -20,12 +20,24 @@ Whether it's developing robust software systems or advancing AI research, I stri
 </p>
 
 <p align="center"> 
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"> 
     <img src="/assets/images/C_sharp.svg" alt="C#" width="60" height="60" />
-    <img src="/assets/images/NET_Core.svg" alt=".Net" width="60" height="60" />
-    <img src="/assets/images/Sql_data_base.svg" alt="SQL Server" width="60" height="60" />
-    <img src="/assets/images/artificial-intelligence.png" alt="Artificial Intelligence" width="60" height="60" />
-    <img src="/assets/images/python.svg" alt="Python" width="60" height="60" />
-    <img src="/assets/images/ChatGPT.svg" alt="ChatGPT" width="60" height="60" />
+  </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/core/introduction"> 
+      <img src="/assets/images/NET_Core.svg" alt=".Net" width="60" height="60" />
+  </a>
+  <a href="https://www.microsoft.com/en-us/sql-server"> 
+      <img src="/assets/images/Sql_data_base.svg" alt="SQL Server" width="60" height="60" />
+  </a>
+  <a href="https://cloud.google.com/learn/what-is-artificial-intelligence"> 
+      <img src="/assets/images/artificial-intelligence.png" alt="Artificial Intelligence" width="60" height="60" />
+  </a>
+  <a href="https://www.python.org/"> 
+      <img src="/assets/images/python.svg" alt="Python" width="60" height="60" />
+  </a>
+  <a href="https://openai.com/index/chatgpt/"> 
+      <img src="/assets/images/ChatGPT.svg" alt="ChatGPT" width="60" height="60" />
+  </a>
 </p>
 
 ---
