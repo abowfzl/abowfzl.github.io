@@ -11,7 +11,7 @@ title: "About"
 <small>Abolfazl Moslemian is a passionate innovator in the world of software development and machine learning. With a sharp focus on AI, deep learning, and neural networks, he pushes the boundaries of technology to create next-generation, cloud-based solutions using the .Net platform. With a vision to drive the future of AI and software development, Abolfazl is not just keeping up with the latest technological trends—he’s setting them. **Abolfazl's goal is clear: to revolutionize industries through the intelligent application of machine learning and AI-powered tools.**</small>
 
 ## Latest Work: Travel Adviser Project 🚀
-<small>In his latest groundbreaking work on the **Travel Adviser project**, Abolfazl is pioneering personalized vacation planning by harnessing the power of advanced AI models like GPT4All and LangChain. By integrating natural language processing and Neo4j's graph-based insights, his project transforms travel data into smart, tailor-made recommendations for every type of traveler.</small>
+<small>In his latest groundbreaking work on the **Travel Adviser project**, Abolfazl is pioneering personalized vacation planning by harnessing the power of advanced AI models like [GPT4All](https://www.nomic.ai/gpt4all) and [LangChain](https://www.langchain.com/). By integrating natural language processing and Neo4j's graph-based insights, his project transforms travel data into smart, tailor-made recommendations for every type of traveler.</small>
 
 ## Academic Excellence 🎓
 
@@ -19,11 +19,11 @@ title: "About"
 
 ## Research Experience 🔬
 
-<small>As a member of the **Smart Software Lab** at Qom University, Abolfazl has been developing machine learning algorithms for personalized travel planning and exploring AI applications in natural language processing and data analysis. This hands-on research prepares him for advanced roles in AI and deep learning applications.</small>
+<small>As a member of the [**Smart Software Lab**](https://ssl.qom.ac.ir/home/) at Qom University, Abolfazl has been developing machine learning algorithms for personalized travel planning and exploring AI applications in natural language processing and data analysis. This hands-on research prepares him for advanced roles in AI and deep learning applications.</small>
 
 ## Key Projects 💡
 
-- <small>**Pigeon**: A monolithic, clean architecture .Net project designed to help website owners monitor and manage the status of their web pages while performing data mining to extract insights from news publisher websites.</small> 
+- <small>**Pigeon**: A monolithic, clean architecture <a href="https://dotnet.microsoft.com/en-us/">.Net</a> project designed to help website owners monitor and manage the status of their web pages while performing data mining to extract insights from news publisher websites.</small> 
     - <small>Key Features:</small> 
         - <small>Web crawling and monitoring for real-time status of web pages.</small>
         - <small>Implements Apriori algorithm for data mining insights.</small>
@@ -34,28 +34,28 @@ title: "About"
         - <small>Manages user accounts and transactions with secure CRUD operations.</small>
         - <small>Ensures data security while maintaining performance.</small>
 
-- <small>**Sparrow**: An API project implementing the CQRS (MediatR) pattern to decouple command and query databases, improving application performance and scalability.</small>
+- <small>**Sparrow**: An API project implementing the <a href="https://learn.microsoft.com/en-us/azure/architecture/patterns/cqrs">CQRS</a> (MediatR) pattern to decouple command and query databases, improving application performance and scalability.</small>
     - <small>Key Features:</small>
         - <small>Wraps API responses with a unified handling system for errors and pagination.</small>
         - <small>Implements behavior for unhandled exceptions and async query handling.</small>
 
 - <small>**EpicPic**: A face recognition system using convolutional neural networks with an impressive 97.38% accuracy for student and staff identification.</small>
 
-- <small>**Travel Adviser**: A chatbot for personalized travel planning, leveraging AI technologies like ChatGPT, LangChain, and Neo4j.</small>
+- <small>**Travel Adviser**: A chatbot for personalized travel planning, leveraging AI technologies like <a href="https://openai.com/index/chatgpt/">ChatGPT</a>,<a href="https://www.langchain.com/">LangChain</a>, and <a href="https://neo4j.com/">Neo4j</a>.</small>
 
 ## Certifications 📜
 - <small>**Machine Learning** (Stanford University, Coursera): Completed with a grade of 92.65%</small>
 - <small>**Python for Data Science, AI & Development** (IBM, Coursera): Completed with a grade of 94.91%</small>
 
 ## Professional Expertise 🌐
-<small>Abolfazl's professional achievements include key roles at **Exbito** and **Mootantroo**, where he led projects in API development, infrastructure monitoring, and performance optimization. His approach to software development emphasizes clean, scalable architecture, setting new standards for efficiency and innovation.</small>
+<small>Abolfazl's professional achievements include key roles at [**Exbito**](https://www.linkedin.com/company/exbito/) and [**Mootantroo**](https://www.linkedin.com/company/mootanroo/), where he led projects in API development, infrastructure monitoring, and performance optimization. His approach to software development emphasizes clean, scalable architecture, setting new standards for efficiency and innovation.</small>
 
 ## Skills and Technologies 💻
 <small>From optimizing financial transactions to building high-performance web APIs, Abolfazl is always looking to push the envelope. His expertise spans **Python**, **.Net Core**, and various other tools, making him a versatile problem-solver across multiple domains.</small>
 
 
 **Top skills** 💎:
-- **Programming Languages**: [Python](https://www.python.org/) (NumPy, TensorFlow, Pandas, Scikit-learn, Matplotlib, Plotly, PyTorch, Keras), [.Net Core](https://learn.microsoft.com/en-us/dotnet/core/introduction), ASP .Net Core
+- **Programming Languages**: [Python](https://www.python.org/) ([NumPy](https://numpy.org/), [TensorFlow](https://www.tensorflow.org/), [Pandas](https://pandas.pydata.org/), [Scikit-learn](https://scikit-learn.org/), [Matplotlib](https://matplotlib.org/), [Plotly](https://plotly.com/), [PyTorch](https://pytorch.org/), [Keras](https://keras.io/)), [.Net Core](https://learn.microsoft.com/en-us/dotnet/core/introduction), [ASP .Net Core](https://dotnet.microsoft.com/en-us/apps/aspnet)
 - **Databases**: SQL Server, [PostgreSQL](https://www.postgresql.org/), [MySQL](https://www.mysql.com/), [Elastic](https://www.elastic.co/), [Redis](https://redis.io/)
 - **Software Tools**: Arduino, Cisco Packet Tracer, Proteus, Xilinx ISE Design Suite
 - **Methodologies**: Agile, Scrum, Continuous Integration/Continuous Deployment (CI/CD)
