@@ -20,24 +20,17 @@ Whether it's developing robust software systems or advancing AI research, I stri
 </p>
 
 <p align="center"> 
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
-    <img src="/assets/images/C_sharp.svg" alt="C#" width="60" height="60" />
-  </a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/core/introduction">
-      <img src="/assets/images/NET_Core.svg" alt=".Net" width="60" height="60" />
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server">
-      <img src="/assets/images/Sql_data_base.svg" alt="SQL Server" width="60" height="60" />
-  </a>
-  <a href="https://cloud.google.com/learn/what-is-artificial-intelligence">
-      <img src="/assets/images/artificial-intelligence.png" alt="Artificial Intelligence" width="60" height="60" />
-  </a>
-  <a href="https://www.python.org/">
-      <img src="/assets/images/python.svg" alt="Python" width="60" height="60" />
-  </a>
-  <a href="https://openai.com/index/chatgpt/">
-      <img src="/assets/images/ChatGPT.svg" alt="ChatGPT" width="60" height="60" />
-  </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="/assets/images/C_sharp.svg" alt="C#" width="60" height="60" /></a>
+
+  <a href="https://learn.microsoft.com/en-us/dotnet/core/introduction"><img src="/assets/images/NET_Core.svg" alt=".Net" width="60" height="60" /></a>
+  
+  <a href="https://www.microsoft.com/en-us/sql-server"><img src="/assets/images/Sql_data_base.svg" alt="SQL Server" width="60" height="60" /></a>
+
+  <a href="https://cloud.google.com/learn/what-is-artificial-intelligence"><img src="/assets/images/artificial-intelligence.png" alt="Artificial Intelligence" width="60" height="60" /></a>
+
+  <a href="https://www.python.org/"><img src="/assets/images/python.svg" alt="Python" width="60" height="60" /></a>
+
+  <a href="https://openai.com/index/chatgpt/"><img src="/assets/images/ChatGPT.svg" alt="ChatGPT" width="60" height="60" /></a>
 </p>
 
 ---
